@@ -12,5 +12,6 @@
     "ecmascript"
   ],
   "author": "Ernesto Crespo <descreed34@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
