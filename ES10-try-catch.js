@@ -1,11 +1,11 @@
 try{
     anotherFunction()
-} catch (e) {
+} catch{
     console.log("Error");
 }   
 
 try {
-    console.log('lagarto');
+    hello()
 } catch(e) {
     console.log('F por el hello()!')
     console.log(e);
